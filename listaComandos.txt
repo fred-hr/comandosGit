@@ -1,0 +1,1 @@
+git clone: <Sirve para copiar un repositorio remoto de GitHub a nuestra computadora.>
